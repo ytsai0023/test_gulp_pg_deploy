@@ -1,0 +1,9 @@
+{
+    "images": [{
+      "src": "item1.png",
+      "alt": "alt text for item1"
+      }, {
+      "src": "item2.png",
+      "alt": "alt text for item1"
+      }    ]
+  }
